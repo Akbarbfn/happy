@@ -2,10 +2,8 @@
   "greeting": "Hello",
   "name": "Diah Ayu Anggraini",
   "greetingText": "I really like your name btw!",
-  "wishText": "May you always be under God's protection, always be happy, reduce your anger, one more Happy Birthday",
-  "imagePath": "img/diah.png",
   "text1": "It's your birthday!!! :D",
-  "textInChatBox": "Happy birthday to you!! too many things to wish. But only one thing you have to remember, always be happy...",
+  "textInChatBox": "Happy birthday to you!! too many things to wish. But only one thing you have to remember, always be happy... ",
   "sendButtonLabel": "Send",
   "text2": "That's what I was going to do.",
   "text3": "But then I stopped.",
@@ -17,7 +15,14 @@
   "bigTextPart1": "S",
   "bigTextPart2": "O",
   "wishHeading": "Happy Birthday!",
+  "wishText": "May you always be under God's protection, always be happy, reduce your anger, one more Happy Birthday",
   "outroText": "Okay, now come back and tell me if you liked it.",
   "replayText": "Or click, if you want to watch it again.",
-  "outroSmiley": ":)"
+  "outroSmiley": ":)",
+  "imagePath": "img/diah.png",
+  "music": {
+    "src": "music/music.mp3",
+    "autoplay": true,
+    "loop": true
+  }
 }
